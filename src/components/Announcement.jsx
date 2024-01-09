@@ -16,7 +16,7 @@ const Announcement = () => {
         <div className="bg-amber-100 text-amber-700 px-4 py-3">
           <p className="text-center text-sm font-medium">
             <a
-              href="https://github.com/yourusername/yourproject"
+              href="https://github.com/yeshrddy/food-truck/tree/master"
               className="inline-block "
             >
               Check out the project on GitHub!
